@@ -2,8 +2,8 @@
 
 /**
  * print_char - prints character
- * @ap: argument pointer
- * @params: the parameters struct
+ * @ap:the argument pointer
+ * @params: the parameter struct
  *
  * Return: number chars printed
  */
