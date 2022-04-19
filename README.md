@@ -76,6 +76,5 @@ These are all the tasks of this project, the ones that are completed link to the
 
 
 ### [Contributors]
-* Derrick Abila
-* Kimberley Mubiru
-
+* Maobe Maeba
+* Wambui Wainaina
