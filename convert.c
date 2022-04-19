@@ -5,7 +5,7 @@
  * @num: number
  * @base: base
  * @flags: argument flags
- * @params: paramater struct
+ * 
  *
  * Return: string
  */
