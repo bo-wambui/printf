@@ -1,3 +1,5 @@
+##Our first group ALX project"*
+
 # Tasks
 
 These are all the tasks of this project, the ones that are completed link to the corresponding files.
@@ -17,7 +19,7 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### [3. With a face like mine, I do better in print](./print_bases.c)
 * Handle the following conversion specifiers:
-  - b : the unsigned int argument is converted to binary
+  - b : the unsigned int argument is converted to binarymercyW
 
 ### [4. What one has not experienced, one will never understand in print](./print_bases.c)
 * Handle the following conversion specifiers:
@@ -72,6 +74,8 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [16. * ]
 * All the above options work well together.
 
----
 
+### [Contributors]
+* Derrick Abila
+* Kimberley Mubiru
 
